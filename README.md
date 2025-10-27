@@ -73,4 +73,5 @@ Meu foco é continuar me desenvolvendo como profissional e contribuir com <stron
 
 © 2025 <strong>CaiosribeiroJP</strong>
 Este portfólio foi desenvolvido para fins profissionais e de apresentação.
+
 Sinta-se à vontade para se inspirar, mas mantenha os créditos ao autor.
