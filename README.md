@@ -1,2 +1,0 @@
-# Practing
-Just hobby
